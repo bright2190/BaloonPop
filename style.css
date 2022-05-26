@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 100px auto;
+    text-align: center;
+    
+}
+
+.span{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: burlywood;
+    
+}
+
+
+p{
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top:  40%;
+    z-index: -2;
+}
+
+.show{
+    font-size: larger;
+    color: black;
+    
+    margin: 160px auto;
+    text-align: center;
+    
+}
